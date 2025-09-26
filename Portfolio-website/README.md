@@ -10,7 +10,7 @@ This website serves as my personal portfolio to showcase my web presence, résum
 It was built using **HTML, CSS, JavaScript**, and other modern web tools.  
 </p>
 
-![Portfolio Website Preview](https://raw.githubusercontent.com/Hymavathi07/Portfolio/main/Portfolio-website/preview.jpg)
+![Portfolio Website Preview](Portfolio-website/My-Alternate-Portfolio-Website.jpg)
 
 ---
 
