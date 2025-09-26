@@ -7,7 +7,9 @@
 
 <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects. It was built using HTML, CSS, JavaScript, and modern web development practices to create a clean, interactive, and professional portfolio.</p>
 
-![My Portfolio Website](https://raw.githubusercontent.com/Hymavathi07/Portfolio/main/Portfolio-Website.jpg)
+![My Portfolio Website](https://hymavathi07.github.io/Portfolio/)
+<img width="1868" height="902" alt="image" src="https://github.com/user-attachments/assets/34f51d0f-618f-425c-b2c3-a54629268fb9" />
+
 
 Please feel free to reach out at **[vhyma1807@gmail.com]** if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
 
