@@ -6,8 +6,6 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-26%20Sep%202025-yellow.svg)](https://github.com/Hymavathi07/Portfolio/commit/main)
 
 <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects. It was built using HTML, CSS, JavaScript, and modern web development practices to create a clean, interactive, and professional portfolio.</p>
-
-[![➡️Live Demo](https://hymavathi07.github.io/Portfolio/)
 <img width="1868" height="902" alt="image" src="https://github.com/user-attachments/assets/34f51d0f-618f-425c-b2c3-a54629268fb9" />
 
 
