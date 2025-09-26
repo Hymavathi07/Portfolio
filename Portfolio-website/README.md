@@ -2,7 +2,7 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Hymavathi07/Portfolio)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://hymavathi07.github.io/Portfolio-website/)
-[![Author](https://img.shields.io/badge/Author-Hymavathi%20Padavala-blue.svg)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Author](https://img.shields.io/badge/Author-Hymavathi%20Padavala-blue.svg)](https://www.linkedin.com/in/hymavathi-padavala-0366a9255/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-2025-yellow.svg)](https://github.com/Hymavathi07/Portfolio/commits/main)
 
 <p align="justify">
