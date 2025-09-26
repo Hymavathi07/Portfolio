@@ -12,6 +12,9 @@ It was built using **HTML, CSS, JavaScript**, and other modern web tools.
 
 ![Portfolio Website Preview](Portfolio-website/My-Alternate-Portfolio-Website.jpg)
 
+<img width="1868" height="902" alt="image" src="https://github.com/user-attachments/assets/0c5b9caf-c23e-4cc6-9ed1-b18e8c0881e0" />
+
+
 ---
 
 ### ✨ Features
